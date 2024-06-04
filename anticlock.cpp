@@ -33,7 +33,7 @@ int main(){
 		int i=0;
 		// i indicate to rows
 		int j=n-1;
-		//j indicates to column
+		//j indicates to rows 
 		while(i<j){
 			swap(arr[i][c],arr[j][c]);
 			i++;
